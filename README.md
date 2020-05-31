@@ -1,2 +1,2 @@
 # HNG_internship
-This is one of the task of the 
+This is one of the task of the Internship
